@@ -1,0 +1,19 @@
+{
+  "name": "gulp_prj",
+  "version": "0.0.0",
+  "authors": [
+    "Nicolas Canfrere <canfrere.nicolas@orange.fr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
